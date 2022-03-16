@@ -1,5 +1,5 @@
-baseurl: "/"
-languageCode: en-us
+baseurl: "https://matheussrod.netlify.app/"
+languageCode: pt-br
 theme: "hugo-theme-stack"
 paginate: 5
 title: Matheus S. Rodrigues
@@ -10,6 +10,8 @@ ignoreFiles:
   - _cache$
   - \.knit\.md$
   - \.utf8\.md$
+
+publishDir: content
 
 languages:
     pt-br:
